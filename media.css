@@ -14,7 +14,7 @@
     {
         width: 100%;
         margin: 0 auto;
-        float: left;
+        display: inline-block;
         clear: both;
     }
 
